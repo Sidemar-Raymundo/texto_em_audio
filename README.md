@@ -10,9 +10,10 @@ Como usar:
 
 3 Escolha entre as opções:
 
- Digite '1' para salvar o áudio como um arquivo MP3.
+   Digite '1' para salvar o áudio como um arquivo MP3.
  
- Digite '2' para reproduzir o áudio imediatamente.
+   Digite '2' para reproduzir o áudio imediatamente.
+
 
  
 4 O áudio gerado será salvo ou reproduzido de acordo com a escolha do usuário.
