@@ -4,6 +4,8 @@ Este repositório contém um programa Python que utiliza a biblioteca gTTS (Goog
 Como usar:
 
 1 Execute o programa e insira o texto que você deseja converter em áudio.
+
+
 2 Escolha um nome para o arquivo de saída (será um arquivo MP3).
 3 Escolha entre as opções:
  Digite '1' para salvar o áudio como um arquivo MP3.
